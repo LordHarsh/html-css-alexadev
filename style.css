@@ -4,6 +4,11 @@
     align-items: center;
     padding: 5px 20px;
 }
+body {
+    background: round;
+    background-image: url('/media/media.png');
+    height: 97.9vh;
+}
 .logo{
     width: 48px;
 }
